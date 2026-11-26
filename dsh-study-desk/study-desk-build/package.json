@@ -1,0 +1,13 @@
+{
+  "name": "study-desk-build",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "pdfjs-dist": "6.3.289"
+  },
+  "dependencies": {
+    "katex": "^0.19.1",
+    "marked": "^18.2.1"
+  }
+}
